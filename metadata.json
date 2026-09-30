@@ -1,0 +1,8 @@
+{
+  "name": "UseVocê - Autonomia Intelectual & Mente Ativa",
+  "description": "Exercite seu raciocínio, memória, escrita e criatividade na era digital. Use a IA, mas não deixe de usar você.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
